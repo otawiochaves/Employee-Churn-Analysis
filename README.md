@@ -11,13 +11,30 @@ The dataset used for this project is the HR Comma Sepcsv dataset, which can be a
 In the data analysis phase, the goal is to explore relevant questions that can indicate the possible causes of staff turnover. The following questions were answered during this phase:
 
 - How many departments can be found in our dataset?
+
+<img src="Project Views/Distribution of Departments.png" width="50%">
+
 - What are the categories of our salary resource?
+
+<img src="Project Views/Salary Distribution.png" width="50%">
+
 - Which department has the highest/lowest salaries?
+
+<img src="Project Views/Salary Distribution by Department.png" width="60%">
+
 - How many employees left the company by department?
+
+<img src="Project Views/Employee turnover by Department.png" width="60%">
+
 - Who was promoted in the last 5 years and left the company?
+
 - How many employees were promoted in the last 5 years?
+
 - How were the projects executed by department, and who left the company?
-- Is there a correlation between lower levels of job satisfaction and higher rates of employee turnover?
+
+- How does job satisfaction vary in relation to employee turnover rates?
+
+<img src="Project Views/Mean Satisfaction Level Comparison.png" width="40%">
 
 ## Machine Learning Model Implementation Phase
 
